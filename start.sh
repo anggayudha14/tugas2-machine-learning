@@ -4,4 +4,4 @@
 . venv/bin/activate
 
 # Start the application using Flask
-exec python app.py
+exec python -m flask run --host=0.0.0.0
