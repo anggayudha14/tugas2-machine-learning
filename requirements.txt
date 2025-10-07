@@ -4,5 +4,4 @@ joblib
 matplotlib
 gunicorn
 scikit-learn
-uWSGI
 waitress
